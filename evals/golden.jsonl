@@ -1,0 +1,24 @@
+{"id":"q01","question":"How many days do I have to ask for a refund on a new subscription?","doc":"refunds","must_include":["30"]}
+{"id":"q02","question":"How long until a refund reaches my card?","doc":"refunds","must_include":["5 to 10"]}
+{"id":"q03","question":"What is the administration fee when I cancel an annual plan?","doc":"refunds","must_include":["10 percent"]}
+{"id":"q04","question":"How many minutes does the password reset link stay valid?","doc":"account-security","must_include":["30 minutes"]}
+{"id":"q05","question":"After how many wrong sign-in attempts is my account locked?","doc":"account-security","must_include":["5 failed"]}
+{"id":"q06","question":"Can I receive two-factor codes by SMS?","doc":"account-security","must_include":["SMS"]}
+{"id":"q07","question":"Is shipping free for large orders?","doc":"shipping","must_include":["75 dollars"]}
+{"id":"q08","question":"How fast is express delivery and what does it cost?","doc":"shipping","must_include":["18 dollars"]}
+{"id":"q09","question":"Within how many days must I report a damaged parcel?","doc":"shipping","must_include":["14 days"]}
+{"id":"q10","question":"How long is the hardware warranty?","doc":"warranty","must_include":["2-year"]}
+{"id":"q11","question":"Does the warranty cover accidental liquid damage?","doc":"warranty","must_include":["not covered"]}
+{"id":"q12","question":"What does Brightbox Care cost per month?","doc":"warranty","must_include":["12 dollars"]}
+{"id":"q13","question":"How much is the Team plan per member each month?","doc":"billing-and-plans","must_include":["12 dollars"]}
+{"id":"q14","question":"What happens after the third failed payment?","doc":"billing-and-plans","must_include":["read-only"]}
+{"id":"q15","question":"Which plan includes single sign-on?","doc":"billing-and-plans","must_include":["Business"]}
+{"id":"q16","question":"What formats can I export my data in?","doc":"data-privacy","must_include":["JSON"]}
+{"id":"q17","question":"How long do deleted files stay in the trash?","doc":"data-privacy","must_include":["30 days"]}
+{"id":"q18","question":"How many years are invoices and tax records kept?","doc":"data-privacy","must_include":["7 years"]}
+{"id":"u01","question":"Who won the football world cup in 2022?","doc":null,"must_include":[]}
+{"id":"u02","question":"Can you recommend a good pizza recipe?","doc":null,"must_include":[]}
+{"id":"u03","question":"What is the capital of Australia?","doc":null,"must_include":[]}
+{"id":"u04","question":"What is the delivery time for a pizza?","doc":null,"must_include":[]}
+{"id":"u05","question":"Do you offer a student discount?","doc":null,"must_include":[]}
+{"id":"u06","question":"What is your phone number?","doc":null,"must_include":[]}
